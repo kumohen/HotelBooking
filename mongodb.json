@@ -1,0 +1,61 @@
+[{
+ 
+    "name": "Joey's Hostel ",
+    "price":  "6",
+    "location":"new delhi",
+    "images": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/9/95861/34.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132545/f5bkhkegasido8ay8ydr_nmz5yn.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/ihuj5rur08oq1cdvlckg_lfuniv.jpg",
+      "https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132544/lraodn7f10isuhldsodl_dlgogx.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/axz8iywecyij7tfelxrq_aiouzb.jpg"],
+    "description": "oey's Hostel is an initiative to help backpackers discover the truly maddening city of Delhi. We are backpackers and have tailor made the hostel for backpackers, to help them get the most out of their time here. We are located right next to the river Yamuna and only 200m from Laxmi Nagar metro station.",
+    "image":"https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/9/95861/34.jpg"
+  },
+  {
+ 
+    "name": "The Desire Hostel",
+    "price":  "8",
+    "location":"new delhi",
+    "images": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/2/290246/64.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132545/f5bkhkegasido8ay8ydr_nmz5yn.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/ihuj5rur08oq1cdvlckg_lfuniv.jpg",
+      "https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132544/lraodn7f10isuhldsodl_dlgogx.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/axz8iywecyij7tfelxrq_aiouzb.jpg"],
+    "description": "oey's Hostel is an initiative to help backpackers discover the truly maddening city of Delhi. We are backpackers and have tailor made the hostel for backpackers, to help them get the most out of their time here. We are located right next to the river Yamuna and only 200m from Laxmi Nagar metro station.",
+    "image":"https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/2/290246/64.jpg"
+  },
+  {
+ 
+    "name": "LetsBunk Poshtel",
+    "price":  "16",
+    "location":"Kolkata",
+    "images": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/2/280190/myavtyemetxlkkv6te2t","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132545/f5bkhkegasido8ay8ydr_nmz5yn.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/ihuj5rur08oq1cdvlckg_lfuniv.jpg",
+      "https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132544/lraodn7f10isuhldsodl_dlgogx.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/axz8iywecyij7tfelxrq_aiouzb.jpg"],
+    "description": "oey's Hostel is an initiative to help backpackers discover the truly maddening city of Delhi. We are backpackers and have tailor made the hostel for backpackers, to help them get the most out of their time here. We are located right next to the river Yamuna and only 200m from Laxmi Nagar metro station.",
+    "image":"https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/2/280190/myavtyemetxlkkv6te2t"
+  },
+  {
+ 
+    "name": "Jenta kurus hotel",
+    "price":  "12",
+    "location":"kolkata",
+    "images": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/2/280190/ecwpigtfmqaookjclrcr","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132545/f5bkhkegasido8ay8ydr_nmz5yn.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/ihuj5rur08oq1cdvlckg_lfuniv.jpg",
+      "https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132544/lraodn7f10isuhldsodl_dlgogx.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/axz8iywecyij7tfelxrq_aiouzb.jpg"],
+    "description": "oey's Hostel is an initiative to help backpackers discover the truly maddening city of Delhi. We are backpackers and have tailor made the hostel for backpackers, to help them get the most out of their time here. We are located right next to the river Yamuna and only 200m from Laxmi Nagar metro station.",
+    "image":"https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/2/280190/ecwpigtfmqaookjclrcr"
+  },
+  {
+ 
+    "name": "Backpackers Heaven",
+    "price":  "30",
+    "location":"Mumbai",
+    "images": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/3/303565/ishn6mqgvcwrjdyseeij","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132545/f5bkhkegasido8ay8ydr_nmz5yn.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/ihuj5rur08oq1cdvlckg_lfuniv.jpg",
+      "https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132544/lraodn7f10isuhldsodl_dlgogx.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/axz8iywecyij7tfelxrq_aiouzb.jpg"],
+    "description": "oey's Hostel is an initiative to help backpackers discover the truly maddening city of Delhi. We are backpackers and have tailor made the hostel for backpackers, to help them get the most out of their time here. We are located right next to the river Yamuna and only 200m from Laxmi Nagar metro station.",
+    "image":"https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/3/303565/ishn6mqgvcwrjdyseeij"
+  },
+  {
+ 
+    "name": "Hide-In Hostel ",
+    "price":  "33",
+    "location":"mumbai",
+    "images": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/3/306693/dc02sfev5gqeqpk8vt8i","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132545/f5bkhkegasido8ay8ydr_nmz5yn.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/ihuj5rur08oq1cdvlckg_lfuniv.jpg",
+      "https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132544/lraodn7f10isuhldsodl_dlgogx.jpg","https://res.cloudinary.com/dvfpkko1z/image/upload/v1623132543/axz8iywecyij7tfelxrq_aiouzb.jpg"],
+    "description": "oey's Hostel is an initiative to help backpackers discover the truly maddening city of Delhi. We are backpackers and have tailor made the hostel for backpackers, to help them get the most out of their time here. We are located right next to the river Yamuna and only 200m from Laxmi Nagar metro station.",
+    "image":"https://a.hwstatic.com/image/upload/f_auto,q_auto,t_80,c_fill,g_north/v1/propertyimages/3/306693/dc02sfev5gqeqpk8vt8i"
+  }
+]

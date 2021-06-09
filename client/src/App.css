@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.fa-map-marker-minus {
+  color: black;
+}
+.avgReview {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+.comment_box {
+  border: 1px solid rgb(75, 69, 69);
+  margin: 10px;
+  padding-right: 20%;
+  border-radius: 15px;
+}
+.avgReview {
+  font-weight: 900;
+  font-size: 70px;
+  color: #ff9f00;
+}
+.star_min {
+  margin-top: -40px;
+}
+.form-check-label {
+  margin-left: -80px;
+}
+.price_filter {
+  border: 1px solid black;
+  padding: 10px;
+}
+.filter_component {
+  margin-top: 100px;
+}
+.nav_filter {
+  margin-top: 40px;
+  width: "50%";
+}
+.fa-facebook {
+  color: blue;
+  margin-right: 18px;
+  margin-left: -24px;
+}
+.fa-instagram {
+  color: rgb(167, 21, 21);
+  margin-right: 18px;
+}
+
+.image_gallery {
+  height: 400px;
+  margin-top: -120px;
+  margin-bottom: 10px;
+}
+
+.review_component {
+  border: 5px solid rgb(73, 68, 68);
+  margin-top: 510px;
+  margin-bottom: 20px;
+}
