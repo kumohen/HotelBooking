@@ -2,7 +2,7 @@
 
 // export const connectDB = async () => {
 //   try {
-//     const conn = await mongoose.connect("mongodb+srv://mahen:12345a@cluster0.zxtfp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
+//     const conn = await mongoose.connect("mongodb+srv://mahen:<password>@cluster0.zxtfp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
 //       useUnifiedTopology: true,
 //       useNewUrlParser: true,
 //       useCreateIndex: true,
