@@ -17,6 +17,7 @@ mongoose.connection.on("connected", () => {
   console.log("mongodb is connected");
 });
 
+
 app.use(express.json())
 
 
